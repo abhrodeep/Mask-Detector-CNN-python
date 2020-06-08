@@ -1,5 +1,5 @@
 # Mask-Detector-CNN-python
-Mask detector CNN model with 3 layers 
+Mask detector CNN model with 3 layers of convolution
 
 One preprocessing python script
 
