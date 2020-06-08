@@ -2,7 +2,9 @@
 Mask detector CNN model with 3 layers 
 
 One preprocessing python script
+
 training neural network script
+
 predicting script taking input from frames through webcam live
 
 CNN MODEL
